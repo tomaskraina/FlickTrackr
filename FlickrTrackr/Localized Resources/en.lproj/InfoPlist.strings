@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  FlickrTrackr
+
+  Created by Tom Kraina on 20/09/2018.
+  Copyright © 2018 Tom Kraina. All rights reserved.
+*/
+
+"NSLocationWhenInUseUsageDescription" = "Flickr Trackr tracks your location and shows you a picture from Flickr for every 100 meters you walk.";

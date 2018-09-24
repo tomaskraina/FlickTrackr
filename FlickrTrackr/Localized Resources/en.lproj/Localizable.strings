@@ -1,0 +1,57 @@
+
+/* Error description shown when location services are denied. */
+"LocationTrackerError.AuthorizationStatusDenied.description" = "Access to location has been denied.";
+
+/* Error recovery suggestion shown when location services are denied. */
+"LocationTrackerError.AuthorizationStatusDenied.recoverySuggestion" = "Please change location settings to 'While Using the App' in order for Flickr Trackr to work correctly.";
+
+/* Error description shown when location services are restricted. */
+"LocationTrackerError.AuthorizationStatusRestricted.description" = "Access to location has been restricted.";
+
+/* Error recovery suggestion shown when location services are restricted. */
+"LocationTrackerError.AuthorizationStatusRestricted.recoverySuggestion" = "Please change location settings to 'While Using the App' in order for Flickr Trackr to work correctly.";
+
+/* Error description shown when location services are not available. */
+"LocationTrackerError.LocationServicesNotAvailable.description" = "Seems like location services are not available on this device.";
+
+/* Error recovery suggestion shown when location services are not available. */
+"LocationTrackerError.LocationServicesNotAvailable.recoverySuggestion" = "Try Flickr Trackr on a device that has location services available.";
+
+/* Title of tracker button when stopped */
+"tracker.button.start" = "Start";
+
+/* Title of tracker button when running */
+"tracker.button.stop" = "Stop";
+
+/* Cancel button title on confirmation dialog to stop tracking. */
+"tracker.dialog.cancel" = "Cancel";
+
+/* Message on confirmation dialog to stop tracking. */
+"tracker.dialog.message" = "Do you want to stop tracking and keep data?";
+
+/* 'Stop and Delete' title on confirmation dialog to stop tracking. */
+"tracker.dialog.stopAndDelete" = "Delete all data";
+
+/* 'Stop and Keep' button title on confirmation dialog to stop tracking. */
+"tracker.dialog.stopAndKeep" = "Keep data";
+
+/* Title on confirmation dialog to stop tracking. */
+"tracker.dialog.title" = "Stop tracking";
+
+/* Cancel button title on location error alert. */
+"tracker.error.cancel" = "Cancel";
+
+/* 'Open settings' button title on location error alert. */
+"tracker.error.settings" = "Change settings";
+
+/* Title on location error alert. */
+"tracker.error.title" = "Can't track location";
+
+/* Status label when loading photos. */
+"photo.status.loadingPhoto" = "Loading photo ...";
+
+/* Status label when no photos found for location. */
+"photo.status.noPhotoFound" = "No photo found for this location.";
+
+/* Status label when requesting photos. */
+"photo.status.requestingPhoto" = "Finding photo ...";

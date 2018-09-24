@@ -1,0 +1,5 @@
+{
+"stat": "fail",
+"code": 98,
+"message": "Invalid auth token"
+}
